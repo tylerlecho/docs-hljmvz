@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lzez8z.mariatogel88bsd.site/sitemap.xml
